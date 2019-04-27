@@ -1,0 +1,11 @@
+name: ExamplePlugin
+main: org._2b2tmcpe.ExamplePlugin.Main
+
+version: "3.0.0"
+api: ["1.0.7"]
+author: maxxie114
+
+commands:
+  sayhi:
+    description: "This command will say hi to the player that perform the command"
+    usage: "/sayhi"
